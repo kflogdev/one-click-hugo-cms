@@ -1,0 +1,7 @@
+{
+  "site_title": "My Super Site",
+  "posts": {
+    "front_limit": 5,
+    "author": "flogman"
+  }
+}
